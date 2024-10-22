@@ -1,0 +1,21 @@
+{
+    "collectionName": "components_blocks_cta",
+    "info": {
+      "displayName": "Cta"
+    },
+    "options": {},
+    "attributes": {
+      "heading": {
+        "type": "string"
+      },
+      "description": {
+        "type": "text"
+      },
+      "form": {
+        "type": "component",
+        "repeatable": false,
+        "component": "elements.form"
+      }
+    }
+  }
+  
